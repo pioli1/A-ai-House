@@ -4,10 +4,23 @@
 }
 
 header {
-    background-color: blueviolet;
+    background-color: rgb(112, 42, 177);
     color:#fff;
     text-align: center;
     font-family: Georgia, serif ;
     font-size: larger;
     padding: 70px;
 }
+
+a{
+    color: #fff;
+    font-family:Georgia, serif ;
+}
+
+
+li{
+    list-style: none;
+    display: inline;
+    margin: 10px;
+ }
+
