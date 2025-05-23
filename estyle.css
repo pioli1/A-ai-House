@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: blueviolet;
+    color:#fff;
+    text-align: center;
+    font-family: Georgia, serif ;
+    font-size: larger;
+    padding: 70px;
+}
