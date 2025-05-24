@@ -4,23 +4,18 @@
 }
 
 header {
-    background-color: rgb(112, 42, 177);
+    background: linear-gradient(#8419af, #58266e);
     color:#fff;
     text-align: center;
     font-family: Georgia, serif ;
     font-size: larger;
-    padding: 70px;
+    padding: 60px;
 }
 
-a{
-    color: #fff;
-    font-family:Georgia, serif ;
+header img{
+    width: 170px;
+    height: 170px;
 }
 
 
-li{
-    list-style: none;
-    display: inline;
-    margin: 10px;
- }
 
