@@ -17,11 +17,24 @@ header img{
     height: 170px;
 }
 
-p{
+#logo{
     font-family: Georgia, serif ;
     font-size: 30px;
     color: #fff;
 }
 
+p {
+    text-align: center;
+    margin: 30px;
+    font-family: Georgia, serif ;
+    font-size: 40px;
+    color: #000000;
+}
+
+#copos{
+ border: none;
+ width: 210px;
+ height: 210px;
+}
 
 
